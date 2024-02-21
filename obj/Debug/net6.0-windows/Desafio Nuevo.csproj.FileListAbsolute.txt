@@ -1,0 +1,27 @@
+C:\Users\const\source\repos\Desafio Nuevo\bin\Debug\net6.0-windows\Desafio Nuevo.exe
+C:\Users\const\source\repos\Desafio Nuevo\bin\Debug\net6.0-windows\Desafio Nuevo.deps.json
+C:\Users\const\source\repos\Desafio Nuevo\bin\Debug\net6.0-windows\Desafio Nuevo.runtimeconfig.json
+C:\Users\const\source\repos\Desafio Nuevo\bin\Debug\net6.0-windows\Desafio Nuevo.dll
+C:\Users\const\source\repos\Desafio Nuevo\bin\Debug\net6.0-windows\Desafio Nuevo.pdb
+C:\Users\const\source\repos\Desafio Nuevo\obj\Debug\net6.0-windows\Desafio Nuevo.csproj.GenerateResource.cache
+C:\Users\const\source\repos\Desafio Nuevo\obj\Debug\net6.0-windows\Desafio Nuevo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\const\source\repos\Desafio Nuevo\obj\Debug\net6.0-windows\Desafio Nuevo.AssemblyInfoInputs.cache
+C:\Users\const\source\repos\Desafio Nuevo\obj\Debug\net6.0-windows\Desafio Nuevo.AssemblyInfo.cs
+C:\Users\const\source\repos\Desafio Nuevo\obj\Debug\net6.0-windows\Desafio Nuevo.csproj.CoreCompileInputs.cache
+C:\Users\const\source\repos\Desafio Nuevo\obj\Debug\net6.0-windows\Desafio Nuevo.dll
+C:\Users\const\source\repos\Desafio Nuevo\obj\Debug\net6.0-windows\refint\Desafio Nuevo.dll
+C:\Users\const\source\repos\Desafio Nuevo\obj\Debug\net6.0-windows\Desafio Nuevo.pdb
+C:\Users\const\source\repos\Desafio Nuevo\obj\Debug\net6.0-windows\Desafio Nuevo.genruntimeconfig.cache
+C:\Users\const\source\repos\Desafio Nuevo\obj\Debug\net6.0-windows\ref\Desafio Nuevo.dll
+C:\Users\const\source\repos\Desafio Nuevo\obj\Debug\net6.0-windows\Desafio Nuevo.csproj.AssemblyReference.cache
+C:\Users\const\source\repos\Desafio Nuevo\obj\Debug\net6.0-windows\Desafio_Nuevo.ProductoData.resources
+C:\Users\const\source\repos\Desafio Nuevo\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\const\source\repos\Desafio Nuevo\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\const\source\repos\Desafio Nuevo\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\const\source\repos\Desafio Nuevo\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\const\source\repos\Desafio Nuevo\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\const\source\repos\Desafio Nuevo\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\const\source\repos\Desafio Nuevo\obj\Debug\net6.0-windows\Desafio Nuevo.csproj.CopyComplete
+C:\Users\const\source\repos\Desafio Nuevo\obj\Debug\net6.0-windows\Desafio_Nuevo.UsuarioData.resources
+C:\Users\const\source\repos\Desafio Nuevo\obj\Debug\net6.0-windows\Desafio_Nuevo.ProductoVendidoData.resources
+C:\Users\const\source\repos\Desafio Nuevo\obj\Debug\net6.0-windows\Desafio_Nuevo.VentaData.resources
